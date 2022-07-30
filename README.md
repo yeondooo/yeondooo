@@ -9,11 +9,12 @@ I'm a web developer from South Korea.
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-3b2e5a?style=plastic&logo=git&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Discord](https://img.shields.io/badge/-Discord-41454A?style=plastic&logo=Discord&logoColor=white)
+  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=Discord&logoColor=white)
 -----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondooo)](https://github.com/anuraghazra/github-readme-stats)
 
