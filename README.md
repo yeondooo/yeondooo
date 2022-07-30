@@ -23,17 +23,23 @@ I have work experience in space&product design and service industry.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=Discord&logoColor=white)
+  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=Discord&logoColor=white)   
+     
+     
 
+## 📚 Experience
+- 22.04.04 - 22.07.22 | 엘리스 SW 엔지니어 트랙 2기   
+   
+   
 
-## ✉️ Contact
-- Email : <iam.limyeonju@gmail.com>
-- Blog : <https://limsummer.tistory.com>
-
-## 📚 Records
+## 💾 Records
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondooo&theme=blueberry&card_width=445&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yeonju's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondooo&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeondooo&count_bg=%2344AAFF&title_bg=%234B4B4B&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## ✉️ Contact
+- Email : <iam.limyeonju@gmail.com>
+- Blog : <https://limsummer.tistory.com>
