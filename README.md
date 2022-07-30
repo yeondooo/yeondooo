@@ -28,7 +28,7 @@ I have work experience in space&product design and service industry.
 
 ## ✉️ Contact
 - Email : <iam.limyeonju@gmail.com>
-- Blog : <https://limsummer.tistory.com/>
+- Blog : <https://limsummer.tistory.com>
 
 ## 📚 Records
 
