@@ -16,11 +16,8 @@ I'm a web developer from South Korea.
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Discord](https://img.shields.io/badge/-Discord-41454A?style=plastic&logo=Discord&logoColor=white)
 -----
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondooo)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondooo&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondooo&layout=compact)](https://github.com/yeondooo/github-readme-stats)
-<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeondooo&count_bg=%2344AAFF&title_bg=%234B4B4B&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
