@@ -1,12 +1,12 @@
 # 안녕하세요! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-프론트엔드 엔지니어 임연주 입니다.   
+**프론트엔드** 엔지니어 임연주 입니다.   
    
 개발자로서 새로운 도전을 하고 있으며,   
 공간&제품 디자인, 서비스업 직무 경험이 있습니다.   
    
 
-I'm Yeonju, frontend engineer.   
+I'm Yeonju, **frontend** engineer.   
    
 I'm taking on new challenges as a developer,   
 I have work experience in space&product design and service industry.
