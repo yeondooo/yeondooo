@@ -1,5 +1,4 @@
 <h1>
-  <img src="https://i.ibb.co/Jd57G1w/Screenshot-2022-07-30-at-22-17-18.png" alt="Screenshot-2022-07-30-at-22-17-18" border="0" width="300"> 
   Hi, I'm Yeonju <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 </h1>
 I'm a web developer from South Korea.
