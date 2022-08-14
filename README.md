@@ -39,7 +39,7 @@ I have work experience in space&product design and service industry.
    - 웹 개발자 양성 교육 과정
    - 매일 제공되는 이론 강의와 실습 문제를 통해 개발 지식과 역량 습득
    - 팀 스터디로 [미니프로젝트 : 나만의 다이어리](https://github.com/yeondooo/simdaElice)를 제작하여 협업 방법 습득 
-   - 팀 프로젝트 [위치기반 알림서비스](https://github.com/yeondooo/saveAnimals), [캠핑용품 쇼핑몰](https://github.com/yeondooo/CAMPICK)제작을 통해 실무에 가까운 경험을 하고 협업 역량 습득
+   - 팀 프로젝트 [위치기반 알림서비스](https://github.com/save-pet/service), [캠핑용품 쇼핑몰](https://github.com/CAMP-PICK/campick)제작을 통해 실무에 가까운 경험을 하고 협업 역량 습득
    
    
 
