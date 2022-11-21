@@ -38,6 +38,7 @@ I have work experience in space&product design and service industry.
 - 2022.10 - 2022.11 | 프리온보딩 프론트엔드 코스
    - 기업이 제공하는 실전 과제들을 통해 다양한 사례를 분석하며 기술 과제 해결 역량을 키웠습니다.
    - 팀 프로젝트를 수행하며 협업 역량을 습득했습니다.
+   - 프로젝트 : [동료학습 스터디](https://github.com/WantedPreonboardingFE5team)
 
 - 2022.07 - 2022.10 | 이노베이션 캠프
    - 주 100시간 코딩을 통해 스스로 학습하는 방법을 습득했습니다.
