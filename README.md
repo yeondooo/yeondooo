@@ -35,11 +35,20 @@ I have work experience in space&product design and service industry.
 
 
 ## 📚 Experience
-- 22.04.04 - 22.07.22 | 엘리스 SW 엔지니어 트랙 2기
-   - 웹 개발자 양성 교육 과정
-   - 매일 제공되는 이론 강의와 실습 문제를 통해 개발 지식과 역량 습득
-   - 팀 스터디로 [미니프로젝트 : 나만의 다이어리](https://github.com/yeondooo/simdaElice)를 제작하여 협업 방법 습득 
-   - 팀 프로젝트 [위치기반 알림서비스](https://github.com/save-pet/service), [캠핑용품 쇼핑몰](https://github.com/CAMP-PICK/campick)제작을 통해 실무에 가까운 경험을 하고 협업 역량 습득
+- 2022.10 - 2022.11 | 프리온보딩 프론트엔드 코스
+   - 기업이 제공하는 실전 과제들을 통해 다양한 사례를 분석하며 기술 과제 해결 역량을 키웠습니다.
+   - 팀 프로젝트를 수행하며 협업 역량을 습득했습니다.
+
+- 2022.07 - 2022.10 | 이노베이션 캠프
+   - 주 100시간 코딩을 통해 스스로 학습하는 방법을 습득했습니다.
+   - React의 기초적인 문법과 활용 방법을 학습했습니다.
+   - Git을 활용하여 백엔드 수강생들과 협업하는 프로젝트 4회를 진행했습니다.
+   - 프로젝트 : [뚜벅이를 위한 제주도 여행 가이드 서비스](https://github.com/duha-dubeoghaukka/duha-frontend)
+
+- 22.04 - 22.07 | 엘리스 SW 엔지니어 트랙 2기
+   - 웹개발에 필요한 기초적인 지식을 학습했습니다.
+   - Git을 활용하여 백엔드 수강생들과 협업하는 프로젝트 3회를 진행했습니다.
+   - 프로젝트 : [위치기반 알림서비스](https://github.com/save-pet/service), [캠핑용품 쇼핑몰](https://github.com/CAMP-PICK/campick)
    
    
 
