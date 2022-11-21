@@ -66,3 +66,4 @@ I have work experience in space&product design and service industry.
 
 - Github | <https://github.com/yeondooo>
 - Blog | <https://limsummer.tistory.com>
+- Resume | <https://bit.ly/3We6Q6t>
