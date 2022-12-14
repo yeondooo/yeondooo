@@ -4,14 +4,6 @@
    
 개발자가 되기 전부터 여러번 도전을 하며 지냈고,   
 현재 개발자로서 새로운 도전을 하고 있습니다.   
-공간&제품 디자인, 서비스업 직무 경험이 있습니다.   
-   
-
-I'm Yeonju, a frontend engineer who is not afraid of challenges.   
-   
-I've been challenging myself many times before I became a developer.   
-I'm taking on new challenges as a developer,   
-I have work experience in space&product design and service industry.
 
 
 ## 💻 Skills
