@@ -5,6 +5,9 @@
 개발자가 되기 전부터 여러번 도전을 하며 지냈고,   
 현재 개발자로서 새로운 도전을 하고 있습니다.   
 
+## ✉️ Contact
+- Email | <iam.limyeonju@gmail.com>
+- Blog | <https://limsummer.tistory.com>
 
 ## 💻 Skills
 
@@ -35,10 +38,9 @@
 
 - 웹 개발자 양성 과정 수료 | 이노베이션 캠프, 엘리스 SW 엔지니어 트랙
    - 22.04 - 22.10
-   - 주 100시간 코딩을 통해 스스로 학습하는 방법을 습득했습니다.
+   - 웹개발에 필요한 기초적인 지식을 학습했습니다.
    - React의 기초적인 문법과 활용 방법을 학습했습니다.
    - Git을 활용하여 백엔드 수강생들과 협업하는 프로젝트 7회를 진행했습니다.
-   - 웹개발에 필요한 기초적인 지식을 학습했습니다.
    - 프로젝트 :  [뚜벅이를 위한 제주도 여행 가이드 서비스](https://github.com/duha-dubeoghaukka/duha-frontend), [위치기반 알림서비스](https://github.com/save-pet/service), [캠핑용품 쇼핑몰](https://github.com/CAMP-PICK/campick)
 
 
@@ -49,10 +51,3 @@
 [![Yeonju's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondooo&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeondooo&count_bg=%2344AAFF&title_bg=%234B4B4B&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## ✉️ Contact
-- Email | <iam.limyeonju@gmail.com>
-
-- Github | <https://github.com/yeondooo>
-- Blog | <https://limsummer.tistory.com>
-- Resume | <https://bit.ly/3We6Q6t>
