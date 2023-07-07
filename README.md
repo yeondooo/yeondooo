@@ -7,29 +7,42 @@
 
 ## ✉️ Contact
 - Email | <iam.limyeonju@gmail.com>
-- Blog | <https://limsummer.tistory.com>
+- Blog | <https://velog.io/@limsummer>
 
 ## 💻 Skills
 
 #### Frontend
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)  
+   ![Dart](https://img.shields.io/badge/-Dart-065596?style=plastic&logo=dart&logoColor=white)
+   ![Flutter](https://img.shields.io/badge/-Flutter-50bff0?style=plastic&logo=flutter&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)  
   
 #### Tools & Collaboration
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Notion](https://img.shields.io/badge/-Notion-000000?style=plastic&logo=notion&logoColor=white)
-  ![Asana](https://img.shields.io/badge/-Asana-273347?style=plastic&logo=asana&logoColor=white)
-  ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slack&logoColor=white)
-  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=Discord&logoColor=white)   
+   ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+   ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white)
+   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+   ![Notion](https://img.shields.io/badge/-Notion-000000?style=plastic&logo=notion&logoColor=white)
+   ![Asana](https://img.shields.io/badge/-Asana-273347?style=plastic&logo=asana&logoColor=white)
+   ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slack&logoColor=white)
+   ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=Discord&logoColor=white)   
 
 
 ## 📚 Experience
+- 매일 기록하는 앱 만들기 챌린지 | 개인 프로젝트
+   - 23.07 - 현재
+   - 기술 향상을 위해 매일 공부한 영상을 기록하고 있습니다.
+   - 프로젝트: [매일 기록하는 앱 만들기 챌린지](https://youtube.com/playlist?list=PLqalTSLVTm5tldlM57kHnRvG7feOenQMN)
+  
+- 발표 스터디 운영
+   - 22.11 - 23.02
+   - 기술에 대해 단편적으로 접근하는 것이 아니라 깊게 공부하기 위해 발표스터디를 운영했습니다.
+   - 1주일에 하나의 주제를 정해 발표를 진행하고 기록했습니다.
+   - 프로젝트: [발표 자료 모음](https://drive.google.com/drive/folders/10OlM_D2E1ubT2jYlCDGQ_Qx-abnv0GHU?usp=sharing)
+
 - 기업 기술 과제 해결 과정 수료 | 원티드 프리온보딩 코스
    - 22.10 - 22.11
    - 기업이 제공하는 실전 과제들을 통해 다양한 사례를 분석하며 기술 과제 해결 역량을 키웠습니다.
